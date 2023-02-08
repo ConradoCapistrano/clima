@@ -1,4 +1,4 @@
-# clima Project
+# Clima Project
 
 ## Sobre o projeto
 
